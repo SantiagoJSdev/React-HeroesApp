@@ -4,3 +4,7 @@
 ## para restablecer no olvides instalar el  
 
 npm install
+
+lokcnsddsnknfkdkfkd
+kldsnkndskncknsdklcklds
+kdjnskcndsknckjns
